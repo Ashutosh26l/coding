@@ -1,0 +1,1 @@
+print(f"Binary representation of {ip_address} is {binary_ip}")

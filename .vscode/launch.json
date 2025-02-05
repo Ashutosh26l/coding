@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TwoVariableToTheSameValue",
+            "request": "launch",
+            "mainClass": "TwoVariableToTheSameValue",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "TemperatureConvertertest",
+            "request": "launch",
+            "mainClass": "TemperatureConvertertest",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "ArrayReverse",
+            "request": "launch",
+            "mainClass": "ArrayReverse",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "checkingBoolean",
+            "request": "launch",
+            "mainClass": "checkingBoolean",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "insertioninarray",
+            "request": "launch",
+            "mainClass": "insertioninarray",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "differenceArray",
+            "request": "launch",
+            "mainClass": "differenceArray",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "identifiers",
+            "request": "launch",
+            "mainClass": "identifiers",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "SubarrayExample",
+            "request": "launch",
+            "mainClass": "SubarrayExample",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "FindMin",
+            "request": "launch",
+            "mainClass": "FindMin",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "linearsearch",
+            "request": "launch",
+            "mainClass": "linearsearch",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "inputarr",
+            "request": "launch",
+            "mainClass": "inputarr",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "varArgs",
+            "request": "launch",
+            "mainClass": "varArgs",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "shadowing",
+            "request": "launch",
+            "mainClass": "shadowing",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "KGoodness",
+            "request": "launch",
+            "mainClass": "KGoodness",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "butterfly",
+            "request": "launch",
+            "mainClass": "butterfly",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "justpractice",
+            "request": "launch",
+            "mainClass": "justpractice",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "onemorepractice",
+            "request": "launch",
+            "mainClass": "onemorepractice",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "onlypractice",
+            "request": "launch",
+            "mainClass": "onlypractice",
+            "projectName": "coding_13cb54f4"
+        },
+        {
+            "type": "java",
+            "name": "product",
+            "request": "launch",
+            "mainClass": "product",
+            "projectName": "coding_13cb54f4"
+        }
+    ]
+}
